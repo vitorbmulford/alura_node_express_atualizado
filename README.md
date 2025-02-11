@@ -53,10 +53,6 @@ A API fornece os seguintes endpoints:
 4. Envie para a branch: `git push origin minha-feature`.
 5. Abra um Pull Request.
 
-## Licença
-
-Este projeto está licenciado sob a [Licença MIT](LICENSE).
-
 ## Testes
 
 Para executar os testes, utilize o comando `npm test`.
